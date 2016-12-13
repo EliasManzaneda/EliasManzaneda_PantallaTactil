@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pantalla_Tactil</string>
+
+    <string name="text_Boton">¡Pulsa aquí!</string>
+    <string name="text_Pulsaciones">Pulsaciones</string>
+
+</resources>
